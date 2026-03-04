@@ -19,21 +19,13 @@ This project demonstrates:
 
 ## 🖥️ Streamlit UI
 
-![Streamlit UI Screenshot](assets/streamlit_ui.png)
+<img width="1840" height="692" alt="disease_prediction" src="https://github.com/user-attachments/assets/a00cb215-31f0-4457-894f-7e39da3d4c74" />
+
 
 ## 📊 Prediction Confidence Chart
 
-![Prediction Chart](assets/prediction_chart.png)
+<img width="1836" height="750" alt="prediction_confidence" src="https://github.com/user-attachments/assets/86abdcf8-01bd-4e6c-851d-06eb620c0794" />
 
-## 📈 Feature Importance
-
-![Feature Importance](assets/feature_importance.png)
-
-## 📡 FastAPI Swagger Docs
-
-![Swagger API](assets/swagger_docs.png)
-
-> 📌 Place your screenshots inside an `assets/` folder with the same file names.
 
 ---
 
@@ -295,3 +287,4 @@ It does not replace professional medical diagnosis.
 # ⭐ If You Like This Project
 
 Give it a star on GitHub and connect for collaboration!
+
